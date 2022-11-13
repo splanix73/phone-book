@@ -116,8 +116,6 @@ const Item = (onAdd) => {
 
     
 
-    
-
 
 
     const hr1Element = document.createElement('hr')
